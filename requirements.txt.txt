@@ -1,0 +1,6 @@
+pip install djangorestframework
+pip install djangorestframework-simplejwt
+pip install django-cors-headers
+
+npm install react-router-dom
+npm install jwt-decode
